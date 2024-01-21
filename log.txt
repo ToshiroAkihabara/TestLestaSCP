@@ -1,7 +1,7 @@
 DEBUG:root:Division: Is number 2 even? True
-DEBUG:root:Speedtest_division: 0.0018679999993764795
+DEBUG:root:Speedtest_division: 0.001833399997849483
 DEBUG:root:Binary: Is number 2 even? True
-DEBUG:root:Speedtest_binary: 0.0018591999978525564
+DEBUG:root:Speedtest_binary: 0.0017880000013974495
 DEBUG:root:Inserted 2. Items in list: [2].
 DEBUG:root:Inserted 2. Items in list: [2, 2].
 DEBUG:root:Inserted 1. Items in list: [2, 2, 1].
@@ -48,4 +48,4 @@ DEBUG:root:Return and delete 105. Items in list: deque([0, -52]).
 DEBUG:root:Return and delete 0. Items in list: deque([-52]).
 DEBUG:root:Return and delete -52. Items in list: deque([]).
 DEBUG:root:No more items in deque([]).
-DEBUG:root:Mergesort result: [-52, -2, 0, 1, 2, 2, 15, 23, 105, 0, -52]
+DEBUG:root:Mergesort result: [-52, -2, 0, 1, 2, 2, 15, 23, 36, 72, 105]

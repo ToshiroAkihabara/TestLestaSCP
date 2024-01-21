@@ -18,12 +18,12 @@ class Sort:
                     j += 1
                 k += 1
 
-            if i < len(left):
+            while i < len(left):
                 arr[k] = left[i]
                 i += 1
                 k += 1
 
-            if j < len(right):
+            while j < len(right):
                 arr[k] = right[j]
                 j += 1
                 k += 1
