@@ -1,5 +1,6 @@
 # Тестовое задание на позицию Server Core Programmer.
 
+[Ответы на вопросы](https://github.com/ToshiroAkihabara/TestLestaSCP/blob/main/ANSWERS.md)
 
 # Вопрос №1:
 

@@ -1,0 +1,51 @@
+DEBUG:root:Division: Is number 2 even? True
+DEBUG:root:Speedtest_division: 0.0018679999993764795
+DEBUG:root:Binary: Is number 2 even? True
+DEBUG:root:Speedtest_binary: 0.0018591999978525564
+DEBUG:root:Inserted 2. Items in list: [2].
+DEBUG:root:Inserted 2. Items in list: [2, 2].
+DEBUG:root:Inserted 1. Items in list: [2, 2, 1].
+DEBUG:root:Inserted 15. Items in list: [2, 2, 1, 15].
+DEBUG:root:Inserted -2. Items in list: [2, 2, 1, 15, -2].
+DEBUG:root:Inserted 23. Items in list: [2, 2, 1, 15, -2, 23].
+DEBUG:root:Inserted 36. Items in list: [2, 2, 1, 15, -2, 23, 36].
+DEBUG:root:Inserted 72. Items in list: [2, 2, 1, 15, -2, 23, 36, 72].
+DEBUG:root:Inserted 105. Items in list: [2, 2, 1, 15, -2, 23, 36, 72, 105].
+DEBUG:root:Inserted 0. Items in list: [2, 2, 1, 15, -2, 23, 36, 72, 105, 0].
+DEBUG:root:Inserted -52. Items in list: [2, 2, 1, 15, -2, 23, 36, 72, 105, 0, -52].
+DEBUG:root:Return and delete 2. Items in list: [2, 1, 15, -2, 23, 36, 72, 105, 0, -52].
+DEBUG:root:Return and delete 2. Items in list: [1, 15, -2, 23, 36, 72, 105, 0, -52].
+DEBUG:root:Return and delete 1. Items in list: [15, -2, 23, 36, 72, 105, 0, -52].
+DEBUG:root:Return and delete 15. Items in list: [-2, 23, 36, 72, 105, 0, -52].
+DEBUG:root:Return and delete -2. Items in list: [23, 36, 72, 105, 0, -52].
+DEBUG:root:Return and delete 23. Items in list: [36, 72, 105, 0, -52].
+DEBUG:root:Return and delete 36. Items in list: [72, 105, 0, -52].
+DEBUG:root:Return and delete 72. Items in list: [105, 0, -52].
+DEBUG:root:Return and delete 105. Items in list: [0, -52].
+DEBUG:root:Return and delete 0. Items in list: [-52].
+DEBUG:root:Return and delete -52. Items in list: [].
+DEBUG:root:No more items in [].
+DEBUG:root:Inserted 2. Items in list: deque([2]).
+DEBUG:root:Inserted 2. Items in list: deque([2, 2]).
+DEBUG:root:Inserted 1. Items in list: deque([2, 2, 1]).
+DEBUG:root:Inserted 15. Items in list: deque([2, 2, 1, 15]).
+DEBUG:root:Inserted -2. Items in list: deque([2, 2, 1, 15, -2]).
+DEBUG:root:Inserted 23. Items in list: deque([2, 2, 1, 15, -2, 23]).
+DEBUG:root:Inserted 36. Items in list: deque([2, 2, 1, 15, -2, 23, 36]).
+DEBUG:root:Inserted 72. Items in list: deque([2, 2, 1, 15, -2, 23, 36, 72]).
+DEBUG:root:Inserted 105. Items in list: deque([2, 2, 1, 15, -2, 23, 36, 72, 105]).
+DEBUG:root:Inserted 0. Items in list: deque([2, 2, 1, 15, -2, 23, 36, 72, 105, 0]).
+DEBUG:root:Inserted -52. Items in list: deque([2, 2, 1, 15, -2, 23, 36, 72, 105, 0, -52]).
+DEBUG:root:Return and delete 2. Items in list: deque([2, 1, 15, -2, 23, 36, 72, 105, 0, -52]).
+DEBUG:root:Return and delete 2. Items in list: deque([1, 15, -2, 23, 36, 72, 105, 0, -52]).
+DEBUG:root:Return and delete 1. Items in list: deque([15, -2, 23, 36, 72, 105, 0, -52]).
+DEBUG:root:Return and delete 15. Items in list: deque([-2, 23, 36, 72, 105, 0, -52]).
+DEBUG:root:Return and delete -2. Items in list: deque([23, 36, 72, 105, 0, -52]).
+DEBUG:root:Return and delete 23. Items in list: deque([36, 72, 105, 0, -52]).
+DEBUG:root:Return and delete 36. Items in list: deque([72, 105, 0, -52]).
+DEBUG:root:Return and delete 72. Items in list: deque([105, 0, -52]).
+DEBUG:root:Return and delete 105. Items in list: deque([0, -52]).
+DEBUG:root:Return and delete 0. Items in list: deque([-52]).
+DEBUG:root:Return and delete -52. Items in list: deque([]).
+DEBUG:root:No more items in deque([]).
+DEBUG:root:Mergesort result: [-52, -2, 0, 1, 2, 2, 15, 23, 105, 0, -52]
